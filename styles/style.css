@@ -222,12 +222,12 @@
 
 .footer__menu-list {
     list-style: none;
+    font-size: 18px;
+    line-height: 21px;
     text-align: center;
 }
 
 .footer__menu-link {
-    font-size: 18px;
-    line-height: 21px;
     text-underline-offset: 4px;
 }
 
